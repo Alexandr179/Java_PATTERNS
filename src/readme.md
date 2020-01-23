@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=8fRHz7_9pGI&list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P&index=20
+
 **ПОРОЖДАЮЩИЕ ПАТЕРНЫ**
 
 1/) Factory
